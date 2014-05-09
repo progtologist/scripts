@@ -21,8 +21,8 @@ EOL
 }
 
 # Configurable parameters
-ccache_dir=/home/laufersteppenwolf/ccache/CM11
-ccache_log=/home/laufersteppenwolf/ccache/CM11/ccache.log
+ccache_dir=/home/aris/ccache/CM11
+ccache_log=/home/aris/ccache/CM11/ccache.log
 jobs_sync=30
 jobs_build=20
 rom=cm
@@ -70,14 +70,14 @@ do
         -d | --debug)
             debug=1
             shift
-            ;; 
+            ;;
         --) # End of all options
             shift
             break
             ;;
         *)  # no more options. Stop while loop
             break
-            ;;	
+            ;;
     esac
 done
 

@@ -3,8 +3,8 @@
 ###### defines ######
 
 local_dir=$PWD
-defconfig=cyanogenmod_x3_defconfig
-jobs=32
+defconfig=la-q1_defconfig
+jobs=8
 
 ###### defines ######
 echo '#############'

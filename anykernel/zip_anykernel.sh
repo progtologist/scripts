@@ -3,7 +3,7 @@
 # By laufersteppenwolf
 
 ####### defines #######
-zipname="WWJB_v009_anykernel.zip"                  # filename of the anykernel updater zip
+zipname="la-q1_anykernel.zip"                  # filename of the anykernel updater zip
 
 
 echo "*****************************"
